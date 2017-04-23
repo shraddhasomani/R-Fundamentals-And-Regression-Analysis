@@ -15,3 +15,8 @@ This repository contains files that explains -
 10) Confidence Interval
 11) Cooks Distance
 12) Box-Cox/Log Transform
+13) Stepwise Regression
+14) OSL
+15) Poisson regression
+16) Logistic Regression
+17) Binomial regression
